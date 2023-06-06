@@ -1,6 +1,6 @@
 
 
-![sider](https://github.com/AwesomeVisionPro/apps/blob/main/on%20the%20head.png "Head View")
+![sider](https://github.com/AwesomeVisionPro/apps/blob/main/img/wearingOnHead.png "Head View")
 # New App Ideas
 Please suggest more
 1. Music Instrument App like [Theremin](https://youtu.be/Wpwn2LVy9eA?t=36) 
@@ -15,3 +15,10 @@ Please suggest more
 2. [Develop your first Immersive App](https://developer.apple.com/videos/play/wwdc2023/10203/)
 3. [Spatial design principles](https://developer.apple.com/videos/play/wwdc2023/10072/)
 4. [Unity Beta Programme ](https://create.unity.com/spatial)
+
+
+
+
+
+
+You can create pull requests or [contact with us](mailto://erkin.tek@gmail.com).
