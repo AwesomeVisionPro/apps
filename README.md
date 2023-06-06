@@ -6,6 +6,8 @@ Please suggest more
 1. Music Instrument App like [Theremin](https://youtu.be/Wpwn2LVy9eA?t=36) 
 2. Music App where you are Orchestrate Chef 
 3. Fishing App
+4. Virtual dog, sits near somewhere
+5. Notifier as a flappy bird, flews into sight, brings a new notification
  
 
 
