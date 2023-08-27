@@ -5,10 +5,15 @@
 Please suggest more
 1. Music Instrument App like [Theremin](https://youtu.be/Wpwn2LVy9eA?t=36) 
 2. Music App where you are Orchestrate Chef 
-3. Fishing App
-4. Virtual dog, sits near somewhere
+3. Fishing Game
+4. Virtual dog, hamster, cat, little person sits near somewhere, jumps on couch
 5. Notifier as a flappy bird, flews into sight, brings a new notification
- 
+6. Dodging Style Games ( [Mongolian Horseback](https://www.youtube.com/watch?v=qzTaYvMmNYU) , Lazer Mongalians, )
+7. Violence Sports (Boxing, MMA, Kickboxing)
+8. Spear throwing Game
+9. Home decoration ( furniture placement, wall breaking, bomb dropped)
+10. fps games ( Aviation Combat, Tank Warfare and First Person Shooter)
+11. Place discovery ( Paris museum, Chernobil nuclear station, pyramid discovery )
 
 
 # Developer Resources
